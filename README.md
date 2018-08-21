@@ -1,5 +1,7 @@
-# Tenzorum-UX-Tool-Bag
-Welcome to the hellscape that is web3 user experience, lets try to make it not so bad.
+# UX-Toolkit
+Welcome to the hellscape that is web3 user experience, lets try to make it not so bad. Created by Pet3rpan from Tenzorum: A key management protocol that will blow your mind ;) (social key recovery, gasless transactiosn!! and inter-chain key permissioning)
+
+
 
 ## Discussions around UX
 
