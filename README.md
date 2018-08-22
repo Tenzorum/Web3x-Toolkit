@@ -5,7 +5,7 @@ Welcome to the hellscape that is web3 user experience, lets try to make it not s
 
 We hope you all enjoy the EthBerlin hack :)
 
-## Design guidelines
+## Design guides
  
 [How to design UI frontends for user transactions](https://imiumi.wixsite.com/fuel/copy-of-documentation-temp)
 
