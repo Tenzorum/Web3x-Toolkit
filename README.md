@@ -1,4 +1,4 @@
-# Tenzorum-Web3x-Toolkit
+# Web3x-Toolkit
 Welcome to the hellscape that is web3 user experience, lets try to make it not so bad.
 
 
