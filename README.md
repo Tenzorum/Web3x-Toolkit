@@ -15,6 +15,7 @@ We hope you all enjoy the EthBerlin hack :)
 
 [List of most common 2018 Ethereum UX Problems](http://discuss.conflux.network/t/list-most-common-ux-problems-2018-with-links-to-other-conflux-discussions/97)
 
+[UX Audit Case Studies](https://drive.google.com/drive/folders/1uouvg-XgvNHB8DvkcST79EGhpIPcQLDQ)
 
 ## UX focused APIs & SDKs
 
