@@ -61,4 +61,4 @@ http://discuss.conflux.network/t/research-dapp-users/79
 
 
 ---
-Come join the designer guild at [web3x.design](http://discuss.conflux.network/)
+Come join the designer guild forum at [web3x.design](http://discuss.conflux.network/)
