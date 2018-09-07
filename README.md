@@ -1,8 +1,6 @@
 # Web3x-Toolkit
 Welcome to the hellscape that is web3 user experience, lets try to make it not so bad.
 
-**More about Tenzorum:** We are building a trustless key management microsservice that enables social key recovery, inter-chain private key permissioning and gasless transactions / relays. We are ux nerds that like to keep up to date with the coolest shit around the ecosystem, enjoy a updated list of resources here.
-
 We hope you all enjoy the EthBerlin hack :)
 
 Cheers,
